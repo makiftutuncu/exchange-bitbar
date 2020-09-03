@@ -1,5 +1,5 @@
 # Exchange Rates BitBar
-This is a command line script and a BitBar plugin for showing exchange rates of currencies in your menu bar. It uses [exchange](https://github.com/makiftutuncu/exchange) to get its data.
+This is a command line script and a [BitBar](https://github.com/matryer/bitbar) plugin for showing exchange rates of currencies in your menu bar. It uses [exchange](https://github.com/makiftutuncu/exchange) to get its data.
 
 <img alt="screenshot" src="https://github.com/makiftutuncu/exchange-bitbar/raw/master/Screenshot.png" />
 
